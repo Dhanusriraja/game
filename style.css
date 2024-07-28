@@ -1,0 +1,27 @@
+body{
+	font-family: arial;
+	text-align: center ;
+}
+#opponent-choice{
+	width: 220px;
+	height: 200px;
+	background-color: skyblue;
+	margin-top: 10px;
+}
+#your-choice{
+	width: 220px;
+	height: 200px;
+	background-color: yellow;
+	margin-top: 10px;
+}
+#choices{
+	width: 240px;
+	height: 80px;
+	margin: 0 auto;
+	background-color: seagreen;
+	margin-top: 10px;
+}
+#choices img{
+	width: 80px;
+	height: 80px;
+}
